@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @snofine
+- 👀 I’m interested in programming and games
+- 🌱 I’m currently learning python & C#
+- 💞️ I’m looking to collaborate on any programs
+- 📫 How to reach me snofine@gmail.com
+- 😄 Pronouns: He/him
